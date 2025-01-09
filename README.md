@@ -1,2 +1,4 @@
 # Amazing-driving
-This is a non-comericbl car driving game.
+一个刚学习unity的时候写的一个赛车小游戏
+游戏内容是选择一个赛车，然后跑一圈，争取能够跑快一点和更长的滞空时间
+开源，随意修改拿去
